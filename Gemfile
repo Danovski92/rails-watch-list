@@ -45,6 +45,7 @@ gem "bootsnap", require: false
 gem "autoprefixer-rails"
 gem "font-awesome-sass", "~> 6.1"
 gem "simple_form", github: "heartcombo/simple_form"
+gem "jbuilder"
 
 # Use Sass to process CSS
 gem "sassc-rails"
